@@ -1,0 +1,4 @@
+﻿  iftrian.c
+C:\Users\itmm-2213-a\source\repos\ClassWork\iftriangle\iftrian.c(16,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\itmm-2213-a\source\repos\ClassWork\iftriangle\iftrian.c(17,8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  iftriangle.vcxproj -> C:\Users\itmm-2213-a\source\repos\ClassWork\x64\Debug\iftriangle.exe

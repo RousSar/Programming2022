@@ -1,0 +1,4 @@
+﻿  ranotrez.c
+C:\Users\itmm-2213-a\source\repos\ClassWork\ranotrz\ranotrez.c(8,5): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\itmm-2213-a\source\repos\ClassWork\ranotrz\ranotrez.c(12,23): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+  ranotrz.vcxproj -> C:\Users\itmm-2213-a\source\repos\ClassWork\x64\Debug\ranotrz.exe

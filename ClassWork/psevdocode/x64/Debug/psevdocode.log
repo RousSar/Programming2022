@@ -1,0 +1,8 @@
+﻿  psecdocodejzhest.c
+C:\Users\itmm-2213-a\source\repos\ClassWork\psevdocode\psecdocodejzhest.c(8,2): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\itmm-2213-a\source\repos\ClassWork\psevdocode\psecdocodejzhest.c(18,12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\itmm-2213-a\source\repos\ClassWork\psevdocode\psecdocodejzhest.c(21,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\itmm-2213-a\source\repos\ClassWork\psevdocode\psecdocodejzhest.c(24,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\itmm-2213-a\source\repos\ClassWork\psevdocode\psecdocodejzhest.c(33,11): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\itmm-2213-a\source\repos\ClassWork\psevdocode\psecdocodejzhest.c(39,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  psevdocode.vcxproj -> C:\Users\itmm-2213-a\source\repos\ClassWork\x64\Debug\psevdocode.exe
