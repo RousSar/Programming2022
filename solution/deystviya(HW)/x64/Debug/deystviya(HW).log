@@ -1,0 +1,8 @@
+﻿  deystviya.c
+F:\Visual studio\projects\solution\deystviya(HW)\deystviya.c(9,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+F:\Visual studio\projects\solution\deystviya(HW)\deystviya.c(10,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+F:\Visual studio\projects\solution\deystviya(HW)\deystviya.c(11,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+F:\Visual studio\projects\solution\deystviya(HW)\deystviya.c(13,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+F:\Visual studio\projects\solution\deystviya(HW)\deystviya.c(14,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+F:\Visual studio\projects\solution\deystviya(HW)\deystviya.c(15,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  deystviya(HW).vcxproj -> F:\Visual studio\projects\solution\x64\Debug\deystviya(HW).exe

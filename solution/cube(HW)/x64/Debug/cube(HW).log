@@ -1,0 +1,5 @@
+﻿  cube.c
+F:\Visual studio\projects\solution\cube(HW)\cube.c(10,6): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Visual studio\projects\solution\cube(HW)\cube.c(11,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Visual studio\projects\solution\cube(HW)\cube.c(12,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  cube(HW).vcxproj -> F:\Visual studio\projects\solution\x64\Debug\cube(HW).exe
