@@ -1,13 +1,14 @@
 ﻿  Strukturki.c
-F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(143,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(265,13): warning C4047: функция: "TV *" отличается по уровням косвенного обращения от "TV **"
-F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(265,8): warning C4024: Input: различные типы для формального и фактического параметров 1
-F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(266,12): warning C4047: функция: "TV *" отличается по уровням косвенного обращения от "TV **"
-F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(266,7): warning C4024: diag: различные типы для формального и фактического параметров 1
-F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(267,9): warning C4047: функция: "TV *" отличается по уровням косвенного обращения от "TV **"
-F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(267,4): warning C4024: S: различные типы для формального и фактического параметров 1
-F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(268,9): warning C4047: функция: "TV *" отличается по уровням косвенного обращения от "TV **"
-F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(268,4): warning C4024: V: различные типы для формального и фактического параметров 1
-F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(273,1): warning C4305: инициализация: усечение из "double" в "float"
-F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(277,1): warning C4305: инициализация: усечение из "double" в "float"
+F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(161,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(289,3): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(330,13): warning C4047: функция: "TV *" отличается по уровням косвенного обращения от "TV **"
+F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(330,8): warning C4024: Input: различные типы для формального и фактического параметров 1
+F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(331,12): warning C4047: функция: "TV *" отличается по уровням косвенного обращения от "TV **"
+F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(331,7): warning C4024: diag: различные типы для формального и фактического параметров 1
+F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(332,9): warning C4047: функция: "TV *" отличается по уровням косвенного обращения от "TV **"
+F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(332,4): warning C4024: S: различные типы для формального и фактического параметров 1
+F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(333,9): warning C4047: функция: "TV *" отличается по уровням косвенного обращения от "TV **"
+F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(333,4): warning C4024: V: различные типы для формального и фактического параметров 1
+F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(338,1): warning C4305: инициализация: усечение из "double" в "float"
+F:\Visual studio\projects\StruktNaChet\Strukturi\Strukturki.c(342,1): warning C4305: инициализация: усечение из "double" в "float"
   Strukturi.vcxproj -> F:\Visual studio\projects\StruktNaChet\x64\Debug\Strukturi.exe

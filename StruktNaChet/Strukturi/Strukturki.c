@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 #include<locale.h>
+#include<string.h>
 
 struct dimension
 {
@@ -124,6 +125,23 @@ struct patient
 	char first_name_doc[15];
 	char patronymic_doc[15];
 };
+
+struct eat
+{
+	char first[50];
+	char second[50];
+	char third[50];
+	char drink[50];
+	char snaks[500];
+};
+struct family
+{
+	char last_name[15];
+	char first_name[15];
+	char otch[15];
+	int priyomi;
+};
+
 
 void Input(struct TV* size) {
 	printf("\nВведите длинну телевизора: ");
@@ -257,7 +275,55 @@ int main()
 
 	//4
 
-	
+	SetConsoleCP(1251);
+	SetConsoleOutputCP(1251);
+	int s = 0, p = 0;
+	printf("Введите количество членов семьи:");
+	scanf_s("%d", &s);
+	getchar();
+	struct family memb[20];
+	struct eat priem[20][10];
+	for (int i = 0; i < s; i++)
+	{
+		int p = 0;
+		printf("Введите имя %d члена семьи : ", i + 1);
+		gets(memb[i].first_name);
+		printf("Введите фамилию %d члена семьи : ", i + 1);
+		gets(memb[i].last_name);
+		printf("Введите отчество %d члена семьи : ", i + 1);
+		gets(memb[i].otch);
+		printf("Введите количество приемов пищи %d члена семьи:", i + 1);
+		scanf_s("%d", &p);
+		getchar();
+		memb[i].priyomi = p;
+		for (int j = 0; j < p; j++)
+		{
+			printf("Введите первое для %d приема пищи %d члена семьи: ", j + 1, i + 1);
+			gets(priem[i][j].first);
+			printf("Введите второе для %d приема пищи %d члена семьи: ", j + 1, i + 1);
+			gets(priem[i][j].second);
+			printf("Введите третье для %d приема пищи %d члена семьи: ", j + 1, i + 1);
+			gets(priem[i][j].third);
+			printf("Введите напиток для %d приема пищи %d члена семьи: ", j + 1, i + 1);
+			gets(priem[i][j].drink);
+			printf("Введите закуcки для %d приема пищи %d члена семьи: ", j + 1, i + 1);
+			gets(priem[i][j].snaks);
+			getchar();
+		}
+	}
+	for (int i = 0; i < s; i++)
+	{
+		printf("%d член семьи: %s %s %s\n", i + 1, memb[i].last_name, memb[i].first_name, memb[i].otch);
+		for (int j = 0; j < memb[i].priyomi; j++)
+		{
+			printf("\tПервое для %d приема пищи %d члена семьи: %s\n", j + 1, i + 1, priem[i][j].first);
+			printf("\tВторое для %d приема пищи %d члена семьи: %s\n", j + 1, i + 1, priem[i][j].second);
+			printf("\tТретье для %d приема пищи %d члена семьи: %s\n", j + 1, i + 1, priem[i][j].third);
+			printf("\tНапиток для %d приема пищи %d члена семьи: %s\n", j + 1, i + 1, priem[i][j].drink);
+			printf("\tЗакуски для %d приема пищи %d члена семьи: %s\n", j + 1, i + 1, priem[i][j].snaks);
+		}
+	}
+	getchar();
 
 	//5
 
