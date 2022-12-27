@@ -1,0 +1,3 @@
+﻿  num5.c
+F:\Visual studio\projects\HomeWork2\thirdnum\num5.c(9,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  thirdnum.vcxproj -> F:\Visual studio\projects\HomeWork2\x64\Debug\thirdnum.exe
