@@ -1,0 +1,26 @@
+﻿  findduo.cpp
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(29,11): error C2061: синтаксическая ошибка: идентификатор "time"
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(29,19): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(29,19): warning C4183: srand: отсутствие возвращаемого типа; предполагается функция-член, возвращающая "int"
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(31,11): error C2059: синтаксическая ошибка: =
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(31,15): error C2238: непредвиденные лексемы перед ";"
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(33,5): error C2059: синтаксическая ошибка: for
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(33,5): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(33,5): error C2238: непредвиденные лексемы перед ";"
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(33,23): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(33,23): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(33,30): error C2238: непредвиденные лексемы перед ";"
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(33,34): error C2143: синтаксическая ошибка: отсутствие ";" перед "+="
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(33,34): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(33,38): error C2059: синтаксическая ошибка: )
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(33,40): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(37,5): error C2059: синтаксическая ошибка: for
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(37,5): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(37,5): error C2238: непредвиденные лексемы перед ";"
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(37,23): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(37,23): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(37,30): error C2238: непредвиденные лексемы перед ";"
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(37,34): error C2143: синтаксическая ошибка: отсутствие ";" перед "+="
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(37,34): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(37,38): error C2059: синтаксическая ошибка: )
+C:\Users\itmm-2213-a\source\actual\Programming2022_1semester\github\game\findduo.cpp(37,40): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
